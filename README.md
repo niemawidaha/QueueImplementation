@@ -1,4 +1,4 @@
-# QueueImplementation
+# Queue Implementation
 
 This contains a queue class based on an array of Strings. 
 
